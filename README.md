@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/k-iishan/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/k-iishan/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -72,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
