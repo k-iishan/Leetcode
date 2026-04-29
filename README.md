@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/k-iishan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/k-iishan/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/k-iishan/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [3488-closest-equal-element-queries](https://github.com/k-iishan/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Counting Sort
