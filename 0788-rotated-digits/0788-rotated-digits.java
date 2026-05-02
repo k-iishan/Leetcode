@@ -1,14 +1,25 @@
 class Solution {
     public int rotatedDigits(int n) {
-       int count = 0 ;
-       for(int i = 0 ; i <=  n ; i++){
-        String a = String.valueOf(i);
-        if(a.indexOf('3') == -1 && a.indexOf('4') == -1 && a.indexOf('7') == -1   ){
-            if(a.indexOf('2') != -1 ||a.indexOf('5') != -1 ||a.indexOf('6') != -1 ||a.indexOf('9') != -1  ){
-                count++ ;
+        int count=0;
+        for(int i=1;i<=n;i++){
+            if(isValid(i)){
+                count++;
             }
         }
-       } 
-       return count ;
+        return count;
+        
+    }
+    public boolean isValid(int num){
+        boolean valid=false;
+        while(num>0){
+            if(num%10==2||num%10==5||num%10==6||num%10==9){
+                valid=true;
+            }
+            if(num%10==3||num%10==4||num%10==7){
+                return false;
+            }
+            num/=10;
+        }
+        return valid;
     }
 }
