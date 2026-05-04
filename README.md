@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/k-iishan/Leetcode/tree/master/3151-special-array-i) |
 | [3488-closest-equal-element-queries](https://github.com/k-iishan/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/k-iishan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3819-rotate-non-negative-elements](https://github.com/k-iishan/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## String
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/k-iishan/Leetcode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [3819-rotate-non-negative-elements](https://github.com/k-iishan/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 <!---LeetCode Topics End-->
