@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/k-iishan/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/k-iishan/Leetcode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/k-iishan/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/k-iishan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/k-iishan/Leetcode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/k-iishan/Leetcode/tree/master/1861-rotating-the-box) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/k-iishan/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/k-iishan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/k-iishan/Leetcode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Stack
 |  |
