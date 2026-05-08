@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/k-iishan/Leetcode/tree/master/3151-special-array-i) |
 | [3488-closest-equal-element-queries](https://github.com/k-iishan/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3583-count-special-triplets](https://github.com/k-iishan/Leetcode/tree/master/3583-count-special-triplets) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/k-iishan/Leetcode/tree/master/3660-jump-game-ix) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/k-iishan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3819-rotate-non-negative-elements](https://github.com/k-iishan/Leetcode/tree/master/3819-rotate-non-negative-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [3488-closest-equal-element-queries](https://github.com/k-iishan/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3583-count-special-triplets](https://github.com/k-iishan/Leetcode/tree/master/3583-count-special-triplets) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/k-iishan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/k-iishan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/k-iishan/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sliding Window
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/k-iishan/Leetcode/tree/master/0112-path-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
 | ------- |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/k-iishan/Leetcode/tree/master/0061-rotate-list) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
