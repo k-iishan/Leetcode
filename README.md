@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/k-iishan/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/k-iishan/Leetcode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/k-iishan/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/k-iishan/Leetcode/tree/master/0525-contiguous-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/k-iishan/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/k-iishan/Leetcode/tree/master/0176-second-highest-salary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/k-iishan/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
