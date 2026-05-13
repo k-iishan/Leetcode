@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/k-iishan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3151-special-array-i](https://github.com/k-iishan/Leetcode/tree/master/3151-special-array-i) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3488-closest-equal-element-queries](https://github.com/k-iishan/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3583-count-special-triplets](https://github.com/k-iishan/Leetcode/tree/master/3583-count-special-triplets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/k-iishan/Leetcode/tree/master/0389-find-the-difference) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Radix Sort
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/k-iishan/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
