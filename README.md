@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/k-iishan/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/k-iishan/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/k-iishan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/k-iishan/Leetcode/tree/master/0055-jump-game) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/k-iishan/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
